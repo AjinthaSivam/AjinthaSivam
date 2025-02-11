@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m working on **Edora**, an AI-powered tutoring platform  
+- 🔭 I’m working on **[Edora](https://edora.lk)**, an AI-powered tutoring platform  
 - 🎓 Final-year Computer Science student specializing in **Artificial Intelligence**  
 - 🧠 Researching **Multi-Agent AI Systems & CRM Applications**  
 - 💬 Ask me about **Python, AI, and Backend Development**  
