@@ -1,24 +1,44 @@
-
-
 <h1 align="center">Hi 👋, I'm Ajintha Sivakulasingam</h1>
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">Software Developer | AI Enthusiast | Researcher</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 💬 Ask me about **java**
+### 🚀 About Me  
+- 🔭 I’m working on **Edora**, an AI-powered tutoring platform  
+- 🎓 Final-year Computer Science student specializing in **Artificial Intelligence**  
+- 🧠 Researching **Multi-Agent AI Systems & CRM Applications**  
+- 💬 Ask me about **Python, AI, and Backend Development**  
+- 📚 Learning **Generative Art & p5.js**  
+- 🌍 Based in **Jaffna, Sri Lanka**  
 
-- 📫 How to reach me **ajinthasivam2019@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ajintha sivakulasingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajintha sivakulasingam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ajinthasivam2019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ajinthasivam2019" height="30" width="40" /></a>
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajintha%20Sivakulasingam-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajintha-sivakulasingam)  
+📧 **Email:** ajinthasivam2019@gmail.com  
+
+---
+
+### ⚡ Tech Stack  
+**Languages & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+
+**Databases & DevOps:**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajinthasivam&theme=radical" alt="GitHub Streak" />
 </p>
 
- 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajinthasivam&show_icons=true&locale=en&layout=compact" alt="ajinthasivam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajinthasivam&show_icons=true&locale=en" alt="ajinthasivam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajinthasivam&" alt="ajinthasivam" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajinthasivam&layout=compact&theme=radical" alt="Top Languages" />
+</p>
