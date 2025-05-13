@@ -4,13 +4,8 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 I’m working on **[Edora](https://edora.lk)**, an AI-powered tutoring platform  
-- 🎓 Final-year Computer Science student specializing in **Artificial Intelligence**  
+  - 🎓 Final-year Computer Science student specializing in **Artificial Intelligence**  
 - 🧠 Researching **Multi-Agent AI Systems & CRM Applications**  
-- 💬 Ask me about **Python, AI, and Backend Development**  
-- 📚 Learning **Generative Art & p5.js**  
-- 🌍 Based in **Jaffna, Sri Lanka**  
-
 ---
 
 ### 🌐 Connect With Me  
